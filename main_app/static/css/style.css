@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    margin: 2rem;
+}
+
+.headings {
+    margin: 0 10px;
+}   
+
+.form-input {
+    width: 15vw;
+
+}
+#form-input {
+    width: 15.5vw;
+    margin: 0 -35px 0 0;
+}
